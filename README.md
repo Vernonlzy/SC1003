@@ -2,7 +2,8 @@
 
 This is the solution to the assignment!
 
-**Course Aims**/b
+**Course Aims**
+
 Computational thinking (CT) is the process of analysing a problem then designing and
 expressing its solution in such a way that a computer can effectively carry it out. It includes
 a number of characteristics, such as breaking a problem into small and repetitive ordered
